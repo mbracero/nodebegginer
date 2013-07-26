@@ -10,7 +10,7 @@ var iniciar = function(response) {
       '<body>'+
       '<form action="/subir" method="post">'+ // Vemos que realizamos peticion POST a subir
       '<textarea name="text" rows="20" cols="60"></textarea>'+
-      '<input type="submit" value="Submit text" />'+
+      '<input type="submit" value="Enviar texto" />'+
       '</form>'+
       '</body>'+
       '</html>';
