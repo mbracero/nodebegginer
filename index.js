@@ -4,6 +4,7 @@ var requestHandlers = require("./requestHandlers");
 
 // Manejador de peticiones
 /**
+ *      (http://www.nodebeginner.org/index-es.html)
  *      En JavaScript, los objetos son sólo colecciones de pares
  *   nombre/valor - piensa en un objeto JavaScript como en un diccionario con llaves de string.
  *
