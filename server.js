@@ -1,8 +1,8 @@
 /**
  *
  *  url.- provee metodos que nos permite extraer las diferentes partes de una URL (como por ejemplo la ruta requerida y el string de consulta)
- *  querystring.- puede ser usado para parsear el string de consulta para los parámetros requeridos. Podemos tambien utilizar querystring para parsear 
- *     el cuerpo de una peticion POST en busca de parametros.
+ *  querystring (ver en fichero requestHandlers.js).- puede ser usado para parsear el string de consulta para los parámetros requeridos. Podemos tambien
+ *  utilizar querystring para parsear el cuerpo de una peticion POST en busca de parametros.
  *
  *                                    url.parse(string).query
  *                                               |
